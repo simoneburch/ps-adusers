@@ -30,12 +30,3 @@
 <img src="https://github.com/simoneburch/ps-adusers/assets/152559137/2fae5628-60c0-4cd1-9870-d56055ffe97b" height="85%" width="85%" alt="_EMPLOYEES OU populated"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
